@@ -1,0 +1,6 @@
+created this file "file-2" in local repository
+and added some content/ did some changes
+and i am adding this file into stagging using git add command
+and then commit the changes using git commit -m "any message" 
+then pushing this file into remote repository using git push command
+
